@@ -1,0 +1,94 @@
+personal:
+  name: "Adv. Avishka Verma"
+  tagline: "Justice is not a privilege. It is a right."
+  bio: "A distinguished advocate with over 12 years of practice at the Supreme Court of India, specializing in constitutional law, criminal defense, and corporate litigation. Known for relentless preparation and fearless advocacy."
+  languages: ["English", "Hindi", "Marathi"]
+  education:
+    - degree: "LLB (Hons)"
+      institution: "National Law School of India University, Bangalore"
+      year: 2012
+    - degree: "LLM — Constitutional Law"
+      institution: "Delhi University Faculty of Law"
+      year: 2014
+  bar_council_id: "DL/2012/45678"
+
+contact:
+  whatsapp: "+917310568386"
+  email: "avishka.verma@lawchambers.in"
+  phone: "+91 73105 68386"
+  office: "Chamber No. 42, Supreme Court Complex, New Delhi – 110001"
+  hours: "Mon–Sat, 10 AM – 7 PM"
+  cta_text: "Let's Talk on WhatsApp"
+  prefilled_message: "Hi Advocate Avishka, I need legal consultation regarding "
+  free_consultation: true
+
+stats:
+  cases_won: 500
+  years_experience: 12
+  happy_clients: 1000
+  landmark_cases: 24
+
+practice_areas:
+  - id: "criminal"
+    name: "Criminal Defense"
+    icon: "Shield"
+    description: "Bail applications, trial defense, appeals — at Sessions Court, High Court, and Supreme Court."
+  - id: "corporate"
+    name: "Corporate Law"
+    icon: "Briefcase"
+    description: "Company formation, M&A advisory, contract disputes, and regulatory compliance."
+  - id: "constitutional"
+    name: "Constitutional Law"
+    icon: "Scale"
+    description: "PIL filings, fundamental rights enforcement, and writ petitions."
+  - id: "family"
+    name: "Family & Matrimonial"
+    icon: "Heart"
+    description: "Divorce, custody, maintenance, and adoption matters with compassion."
+  - id: "property"
+    name: "Property & Real Estate"
+    icon: "Home"
+    description: "Title disputes, RERA complaints, and landlord-tenant cases."
+  - id: "arbitration"
+    name: "Arbitration & ADR"
+    icon: "Handshake"
+    description: "Efficient dispute resolution through arbitration, mediation, and conciliation."
+
+landmark_cases:
+  - title: "State vs. Kumar (2021)"
+    description: "Landmark bail ruling cited in 200+ subsequent judgments"
+    court: "Supreme Court of India"
+  - title: "XYZ Corp Merger (2022)"
+    description: "₹500 Cr cross-border acquisition — zero regulatory hurdles"
+    court: "Delhi High Court"
+  - title: "PIL on Air Quality (2023)"
+    description: "Forced 3 state governments to implement strict emission norms"
+    court: "Supreme Court of India"
+
+testimonials:
+  - name: "Rajesh Mehta"
+    role: "CEO, TechVentures India"
+    quote: "Priya's expertise in corporate law saved our company from a ₹50 Cr dispute. Her strategy was brilliant and her composure in court was unmatched."
+    stars: 5
+  - name: "Sunita Agarwal"
+    role: "Homeowner, Noida"
+    quote: "Got my property rights restored after 8 years of struggle. I had lost hope — she never did. Forever grateful."
+    stars: 5
+  - name: "Arjun Singh"
+    role: "Acquitted Accused"
+    quote: "Wrongly accused and facing life imprisonment. Adv. Priya secured my acquittal in 6 months. She is a miracle worker."
+    stars: 5
+  - name: "Dr. Meera Nair"
+    role: "PIL Petitioner, Kerala"
+    quote: "Her PIL changed the lives of 10,000 families. A true champion of justice who fights when others give up."
+    stars: 5
+
+theme:
+  primary: "#C9A84C"
+  background: "#0D0D1A"
+  text: "#F0EAD6"
+  accent: "#4C9AC9"
+
+scene:
+  pillar_count: 12
+  particle_count: 500
